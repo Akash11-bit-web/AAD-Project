@@ -1,3 +1,94 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "rice",
+      "description": "A bowl of white rice",
+      "imageUrl": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMHJpY2V8ZW58MHx8fHwxNzYxNjc5NDcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white rice"
+    },
+    {
+      "id": "chapati",
+      "description": "Stack of chapatis",
+      "imageUrl": "https://images.unsplash.com/photo-1705537748124-926009973f94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmbGF0YnJlYWR8ZW58MHx8fHwxNzYxNzQ4MTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flatbread"
+    },
+    {
+      "id": "dosa",
+      "description": "A crispy dosa",
+      "imageUrl": "https://images.unsplash.com/photo-1690653071898-e8881d7a2187?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYW5jYWtlJTIwY3JlcGV8ZW58MHx8fHwxNzYxNzQ4MTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pancake crepe"
+    },
+    {
+      "id": "pizza",
+      "description": "A slice of pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1678726152548-b616519217f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzbGljZSUyMHBpenphfGVufDB8fHx8MTc2MTc0ODEyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "slice pizza"
+    },
+    {
+      "id": "burger",
+      "description": "A cheese burger",
+      "imageUrl": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGVlc2VidXJnZXJ8ZW58MHx8fHwxNzYxNjg2OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cheeseburger"
+    },
+    {
+      "id": "apple",
+      "description": "A red apple",
+      "imageUrl": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyZWQlMjBhcHBsZXxlbnwwfHx8fDE3NjE2MzI2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red apple"
+    },
+    {
+      "id": "banana",
+      "description": "A bunch of bananas",
+      "imageUrl": "https://images.unsplash.com/photo-1513563401345-1123a773541c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiYW5hbmFzfGVufDB8fHx8MTc2MTczMTQ1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bananas"
+    },
+    {
+      "id": "orange",
+      "description": "A fresh orange",
+      "imageUrl": "https://images.unsplash.com/photo-1592187270271-9a4b84faa228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxvcmFuZ2UlMjBmcnVpdHxlbnwwfHx8fDE3NjE2NTkyMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "orange fruit"
+    },
+    {
+      "id": "salad",
+      "description": "A bowl of fresh salad",
+      "imageUrl": "https://images.unsplash.com/photo-1644172971013-b3dfee71fa0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmcmVzaCUyMHNhbGFkfGVufDB8fHx8MTc2MTY3NTQyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh salad"
+    },
+    {
+      "id": "chicken-curry",
+      "description": "A bowl of chicken curry",
+      "imageUrl": "https://images.unsplash.com/photo-1627366422957-3efa9c6df0fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaGlja2VuJTIwY3Vycnl8ZW58MHx8fHwxNzYxNjc0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chicken curry"
+    },
+    {
+      "id": "dal",
+      "description": "A bowl of dal",
+      "imageUrl": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsZW50aWwlMjBzb3VwfGVufDB8fHx8MTc2MTcxNzA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lentil soup"
+    },
+    {
+      "id": "milk",
+      "description": "A glass of milk",
+      "imageUrl": "https://images.unsplash.com/photo-1602153508668-80b6f872497e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnbGFzcyUyMG1pbGt8ZW58MHx8fHwxNzYxNjQ5NzI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "glass milk"
+    },
+    {
+      "id": "coffee",
+      "description": "A cup of coffee",
+      "imageUrl": "https://images.unsplash.com/photo-1692263487968-ad733585d7c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3VwJTIwY29mZmVlfGVufDB8fHx8MTc2MTY4MDk4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cup coffee"
+    },
+    {
+      "id": "egg",
+      "description": "Fried eggs",
+      "imageUrl": "https://images.unsplash.com/photo-1589390583309-b08541eba2a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZnJpZWQlMjBlZ2d8ZW58MHx8fHwxNzYxNzIxOTA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fried egg"
+    },
+    {
+      "id": "croissant",
+      "description": "A flaky croissant",
+      "imageUrl": "https://images.unsplash.com/photo-1626079450697-400437370a89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmbGFreSUyMGNyb2lzc2FudHxlbnwwfHx8fDE3NjE3NDgxMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flaky croissant"
+    }
+  ]
 }
