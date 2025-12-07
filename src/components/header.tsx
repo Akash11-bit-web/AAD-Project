@@ -9,7 +9,7 @@ export function Header() {
         <div className="flex items-center gap-2">
           <Leaf className="h-7 w-7 text-accent" />
           <h1 className="text-2xl font-bold tracking-tight text-foreground">
-            NutriScan AI
+            Analyse with WHOLESOME
           </h1>
         </div>
       </div>
